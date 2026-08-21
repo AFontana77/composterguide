@@ -52,7 +52,7 @@ const picks = [
     name: "OXO Good Grips Compost Bin",
     category: "Best Kitchen Countertop Bin",
     price: "~$25-30",
-    amazonUrl: "https://www.amazon.com/dp/B005H1ORCE?tag=compostlab-20",
+    amazonUrl: "https://www.amazon.com/dp/B07ZDRTFYN?tag=compostlab-20",
     verdict: "The standard for kitchen scrap collection. Holds 1.75 gallons. Activated-carbon filter controls odor between trips to the outdoor bin.",
     topFeatures: [
       "1.75-gallon stainless steel body.",
@@ -126,7 +126,6 @@ export default function BestCompostBinPage() {
         winnerCategory="Compost Bin"
         dreamOutcomeChain="The IM4000's dual-chamber design lets you add fresh scraps on one side while the other side finishes, so you get usable compost in 8 weeks instead of 6 months, so the garden gets fed year-round without waiting for a single massive batch."
         proofPoint="8-week finish time in warm weather. Dual chambers. BPA-free recycled plastic. Elevated to block pests."
-        affiliateUrl="https://www.amazon.com/dp/B009YA7TOI?tag=compostlab-20"
         ctaLabel="Check FCMP Tumbler price on Amazon"
         riskReversal="Free returns. Prime shipping."
       />

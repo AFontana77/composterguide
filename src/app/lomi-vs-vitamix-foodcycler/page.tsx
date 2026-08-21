@@ -159,9 +159,6 @@ export default function LomiVsFoodCyclerPage() {
                 </li>
               ))}
             </ul>
-            <a href="https://www.amazon.com/dp/B09JWQKMD4?tag=compostlab-20" rel="nofollow noopener noreferrer sponsored" target="_blank" className="mt-4 inline-block rounded-lg bg-accent px-4 py-2 text-sm font-bold text-accent-foreground hover:bg-accent/90 transition">
-              Check Lomi price
-            </a>
           </div>
           <div className="rounded-xl bg-secondary/60 border border-border p-5">
             <p className="font-bold text-foreground mb-2 text-sm uppercase tracking-wide">Buy FoodCycler if...</p>
@@ -178,9 +175,6 @@ export default function LomiVsFoodCyclerPage() {
                 </li>
               ))}
             </ul>
-            <a href="https://www.amazon.com/dp/B07B8R6V5D?tag=compostlab-20" rel="nofollow noopener noreferrer sponsored" target="_blank" className="mt-4 inline-block rounded-lg border border-border px-4 py-2 text-sm font-bold text-foreground hover:bg-muted transition">
-              Check FoodCycler price
-            </a>
           </div>
         </div>
 

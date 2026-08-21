@@ -78,7 +78,6 @@ export default function BestTumblerComposterPage() {
         winnerCategory="Tumbler Composter"
         dreamOutcomeChain="The dual-chamber design lets you add fresh scraps every day without interrupting a batch that is already cooking, so you get usable compost every 4-8 weeks on a rolling cycle instead of waiting for one giant batch to finish."
         proofPoint="37-gallon dual-chamber capacity. BPA-free recycled plastic. 18 internal fins mix the pile with each turn. Elevated design blocks ground pests."
-        affiliateUrl="https://www.amazon.com/dp/B009YA7TOI?tag=compostlab-20"
         ctaLabel="Check FCMP IM4000 price on Amazon"
         riskReversal="Free returns. Prime shipping."
       />
