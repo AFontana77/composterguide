@@ -15,7 +15,7 @@ const TITLE = "Lomi Composter Review (2026)";
 const DESC = "We ran 30 Lomi cycles with real food scraps. Here is the honest verdict.";
 const URL = "https://www.composterguide.com/lomi-review";
 const DATE = "2026-05-08";
-const LOMI_URL = "https://www.amazon.com/dp/B09JWQKMD4?tag=compostlab-20";
+const LOMI_URL = "";
 
 const pros = [
   "Turns food scraps into dry material in 4-12 hours.",

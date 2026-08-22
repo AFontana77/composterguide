@@ -22,7 +22,7 @@ const picks = [
     name: "FCMP Outdoor IM4000 Tumbler",
     category: "Best Overall Tumbler",
     price: "~$100-130",
-    amazonUrl: "https://www.amazon.com/dp/B009YA7TOI?tag=compostlab-20",
+    amazonUrl: "",
     verdict: "Dual chambers let you add fresh scraps to one side while the other side finishes. 8 weeks from scraps to usable compost on a warm day.",
     topFeatures: [
       "37-gallon capacity across two chambers.",
@@ -37,7 +37,7 @@ const picks = [
     name: "Algreen Soil Saver",
     category: "Best Budget Outdoor Bin",
     price: "~$50-70",
-    amazonUrl: "https://www.amazon.com/dp/B000VRBU2K?tag=compostlab-20",
+    amazonUrl: "",
     verdict: "120-liter bottomless bin that sits on soil. Worms enter from below and microbes do the work. Slow but hands-off once loaded.",
     topFeatures: [
       "120-liter / 32-gallon capacity.",
@@ -161,14 +161,16 @@ export default function BestCompostBinPage() {
               ))}
             </ul>
             <p className="text-xs text-muted-foreground mb-4"><strong>Best for:</strong> {pick.bestFor}</p>
-            <a
-              href={pick.amazonUrl}
-              rel="nofollow noopener noreferrer sponsored"
-              target="_blank"
-              className="inline-flex items-center justify-center rounded-xl bg-accent px-5 py-3 text-sm font-bold text-accent-foreground hover:bg-accent/90 transition min-h-[44px]"
-            >
-              Check price on Amazon
-            </a>
+            {pick.amazonUrl && (
+              <a
+                href={pick.amazonUrl}
+                rel="nofollow noopener noreferrer sponsored"
+                target="_blank"
+                className="inline-flex items-center justify-center rounded-xl bg-accent px-5 py-3 text-sm font-bold text-accent-foreground hover:bg-accent/90 transition min-h-[44px]"
+              >
+                Check price on Amazon
+              </a>
+            )}
           </div>
         ))}
 
