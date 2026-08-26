@@ -1,11 +1,11 @@
 {
  "_note": "Amazon product image LINKS only. No image bytes are stored. Entries expire 24h after fetched_at per the Associates Operating Agreement; the render component falls back to a branded placeholder once stale.",
- "fetched_at": "2026-08-25T21:17:14+00:00",
+ "fetched_at": "2026-08-26T09:17:17+00:00",
  "ttl_hours": 24,
  "partner_tag": "compostlab-20",
  "items": {
   "B07ZDRTFYN": {
-   "title": "OXO Good Grips EASY-CLEAN COMPOST BIN - CHARCOAL - 1.75 GAL/6.62 L",
+   "title": "OXO Good Grips Easy-Clean Compost Bin, Charcoal, 1.75 Gal/6.62 L",
    "primary": {
     "url": "https://m.media-amazon.com/images/I/41UkwDuDbTL._SL500_.jpg",
     "width": 500,
