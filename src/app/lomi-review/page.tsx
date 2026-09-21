@@ -15,7 +15,10 @@ const TITLE = "Lomi Composter Review (2026)";
 const DESC = "We ran 30 Lomi cycles with real food scraps. Here is the honest verdict.";
 const URL = "https://www.composterguide.com/lomi-review";
 const DATE = "2026-05-08";
-const LOMI_URL = "";
+// Was "", which rendered a live "Check current Lomi price on Amazon" button with
+// an empty href. No ASIN is held for this unit, so the CTA goes to a tagged
+// Amazon search for the named product rather than nowhere.
+const LOMI_URL = "https://www.amazon.com/s?k=Lomi+composter&tag=compostlab-20";
 
 const pros = [
   "Turns food scraps into dry material in 4-12 hours.",
