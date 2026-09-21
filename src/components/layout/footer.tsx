@@ -87,7 +87,7 @@ export function Footer() {
         <div className="mt-10 pt-6 border-t border-border flex flex-col sm:flex-row justify-between items-center gap-3">
           <p className="text-xs text-muted-foreground">&copy; {currentYear} ComposterGuide.com. All rights reserved.</p>
           <p className="text-xs text-muted-foreground text-center sm:text-right max-w-md">
-            ComposterGuide.com is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you.
+            ComposterGuide.com is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. As an Amazon Associate we earn from qualifying purchases.
           </p>
         </div>
       </div>
