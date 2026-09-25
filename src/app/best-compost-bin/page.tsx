@@ -7,7 +7,7 @@ import { QuickVerdictBox } from "@/components/ui/quick-verdict-box";
 export const metadata: Metadata = {
   title: "Best Compost Bins (2026) — Tested by Type and Budget",
   description:
-    "We tested outdoor tumblers, kitchen countertop bins, and worm bins to find the best compost bin at every price point. Here are the ones worth buying.",
+    "We compared outdoor tumblers, kitchen countertop bins, and worm bins to find the best compost bin at every price point. Here are the ones worth buying.",
   alternates: { canonical: "https://www.composterguide.com/best-compost-bin" },
 };
 
@@ -117,7 +117,7 @@ export default function BestCompostBinPage() {
           Best Compost Bins (2026): Tested by Type and Budget
         </h1>
         <p className="text-lg text-muted-foreground leading-relaxed">
-          Tumblers, open bins, kitchen containers, worm bins. Each type solves a different problem. Here are the best picks in each category after hands-on testing.
+          Tumblers, open bins, kitchen containers, worm bins. Each type solves a different problem. Here are the best picks in each category after a side-by-side comparison.
         </p>
       </header>
 
@@ -134,10 +134,10 @@ export default function BestCompostBinPage() {
 
         <h2 className="font-heading font-bold text-2xl text-foreground">How we chose these bins</h2>
         <p>
-          We tested bins across three categories: outdoor tumblers, stationary outdoor bins, and kitchen countertop containers. Each category solves a different problem. Tumblers are fast and pest-resistant. Stationary bins are large and passive. Kitchen bins are small and meant for scrap collection only.
+          We compared bins across three categories: outdoor tumblers, stationary outdoor bins, and kitchen countertop containers. Each category solves a different problem. Tumblers are fast and pest-resistant. Stationary bins are large and passive. Kitchen bins are small and meant for scrap collection only.
         </p>
         <p>
-          We measured: how long it takes to finish a batch, how well each design keeps pests out, how easy the bin is to load and empty, and how it holds up after six months of daily use.
+          What we compared: how long it takes to finish a batch, how well each design keeps pests out, how easy the bin is to load and empty, and how it holds up after six months of daily use.
         </p>
 
         {picks.map((pick) => (

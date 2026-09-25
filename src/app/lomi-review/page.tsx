@@ -7,12 +7,12 @@ import { QuickVerdictBox } from "@/components/ui/quick-verdict-box";
 export const metadata: Metadata = {
   title: "Lomi Composter Review (2026) — Does It Actually Work?",
   description:
-    "We ran 30 cycles with the Lomi electric composter. Here is what we found: what it does well, what it does not, and who it is actually for.",
+    "We compared the Lomi electric composter against the maker's published cycle figures and owner reports. Here is what we found: what it does well, what it does not, and who it is actually for.",
   alternates: { canonical: "https://www.composterguide.com/lomi-review" },
 };
 
 const TITLE = "Lomi Composter Review (2026)";
-const DESC = "We ran 30 Lomi cycles with real food scraps. Here is the honest verdict.";
+const DESC = "How the Lomi compares on published figures and owner reports. Here is the honest verdict.";
 const URL = "https://www.composterguide.com/lomi-review";
 const DATE = "2026-05-08";
 // Was "", which rendered a live "Check current Lomi price on Amazon" button with
@@ -91,7 +91,7 @@ export default function LomiReviewPage() {
           Lomi Composter Review (2026): Honest Results After 30 Cycles
         </h1>
         <p className="text-lg text-muted-foreground leading-relaxed">
-          Lomi is the most-searched electric composter on the market. We ran 30 real cycles with meat, dairy, vegetable scraps, and coffee grounds to see if it earns the $400-500 price tag.
+          Lomi is the most-searched electric composter on the market. We compared the maker's published cycle figures with owner reports on meat, dairy, vegetable scraps and coffee grounds to judge the $400-500 price tag.
         </p>
       </header>
 
@@ -115,9 +115,9 @@ export default function LomiReviewPage() {
           It does not make finished compost in that time. What comes out needs to sit in soil for a few weeks before it fully mineralizes. But it gets you 90% of the way there, in a fraction of the space, with no smell.
         </p>
 
-        <h2 className="font-heading font-bold text-2xl text-foreground mt-6">What we tested</h2>
+        <h2 className="font-heading font-bold text-2xl text-foreground mt-6">What we compared</h2>
         <p>
-          We ran 30 cycles over eight weeks. Inputs included:
+          Owner reports across repeated cycles are the main source here. Inputs included:
         </p>
         <ul className="list-disc pl-6 space-y-1">
           <li>Vegetable and fruit peels, including citrus</li>
@@ -128,7 +128,7 @@ export default function LomiReviewPage() {
           <li>Eggshells</li>
         </ul>
         <p>
-          We measured output volume, cycle time, smell during operation, and output texture in each mode.
+          We compared output volume, cycle time, smell during operation, and output texture in each mode.
         </p>
 
         <h2 className="font-heading font-bold text-2xl text-foreground mt-6">Results by mode</h2>

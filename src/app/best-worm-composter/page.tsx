@@ -7,12 +7,12 @@ import { QuickVerdictBox } from "@/components/ui/quick-verdict-box";
 export const metadata: Metadata = {
   title: "Best Worm Composter (2026) — Tested Worm Bins Ranked",
   description:
-    "We tested the Worm Factory 360, Urban Worm Bag, and others to find the best worm composter for home use. Here are the ones that keep worms alive and happy.",
+    "We compared the Worm Factory 360, Urban Worm Bag, and others to find the best worm composter for home use. Here are the ones that keep worms alive and happy.",
   alternates: { canonical: "https://www.composterguide.com/best-worm-composter" },
 };
 
 const TITLE = "Best Worm Composter (2026)";
-const DESC = "We tested the top worm bins. Here are the ones that work.";
+const DESC = "We compared the top worm bins. Here are the ones that work.";
 const URL = "https://www.composterguide.com/best-worm-composter";
 const DATE = "2026-05-08";
 

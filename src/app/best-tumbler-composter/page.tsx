@@ -7,7 +7,7 @@ import { QuickVerdictBox } from "@/components/ui/quick-verdict-box";
 export const metadata: Metadata = {
   title: "Best Tumbler Composter (2026) — Top Picks Ranked and Tested",
   description:
-    "The best tumbler composters speed up decomposition and keep pests out. We ranked the top picks by capacity, build quality, and finish time after hands-on testing.",
+    "The best tumbler composters speed up decomposition and keep pests out. We ranked the top picks by capacity, build quality, and finish time after a side-by-side comparison.",
   alternates: { canonical: "https://www.composterguide.com/best-tumbler-composter" },
 };
 

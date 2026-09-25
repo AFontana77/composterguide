@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 const reviews = [
   {
     title: "Lomi Electric Composter Review",
-    desc: "Lomi turns food scraps into usable material in 4 hours. We ran 30 cycles to see if it holds up past the honeymoon phase.",
+    desc: "Lomi turns food scraps into usable material in 4 hours. Owner reports are the main source on whether it holds up past the honeymoon phase.",
     href: "/lomi-review",
     badge: "Most Popular",
   },
@@ -31,7 +31,7 @@ const reviews = [
   },
   {
     title: "Best Worm Composter",
-    desc: "Vermicomposting turns kitchen scraps into high-quality castings. We tested the top bins to find which ones are actually worm-friendly.",
+    desc: "Vermicomposting turns kitchen scraps into high-quality castings. We compared the top bins to find which ones are actually worm-friendly.",
     href: "/best-worm-composter",
     badge: "Best Value",
   },
