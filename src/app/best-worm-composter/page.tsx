@@ -79,7 +79,6 @@ export default function BestWormComposterPage() {
         dreamOutcomeChain="The stackable tray system migrates worms upward automatically so you can pull a finished tray of castings from the bottom without disturbing the bin, so you get rich compost on a rolling basis instead of shutting down the whole bin to harvest."
         proofPoint="4-tray stacking design. 1,000-worm starter capacity per tray. Leachate spigot for liquid fertilizer. Made in the USA."
         ctaLabel="Check Worm Factory 360 price"
-        riskReversal="Free returns. Prime shipping."
       />
 
       <div className="prose max-w-none space-y-6 text-muted-foreground leading-relaxed mt-8">

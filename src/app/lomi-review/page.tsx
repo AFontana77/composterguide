@@ -102,7 +102,7 @@ export default function LomiReviewPage() {
         proofPoint="Accepts meat, dairy, and cooked food. 4-hour minimum cycle. Odor-controlled lid seal."
         affiliateUrl={LOMI_URL}
         ctaLabel="Check Lomi price on Amazon"
-        riskReversal="Ships Prime. Check return policy at checkout."
+        riskReversal="Check return policy at checkout."
       />
 
       <div className="prose max-w-none space-y-6 text-muted-foreground leading-relaxed mt-8">

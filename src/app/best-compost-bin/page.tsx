@@ -127,7 +127,6 @@ export default function BestCompostBinPage() {
         dreamOutcomeChain="The IM4000's dual-chamber design lets you add fresh scraps on one side while the other side finishes, so you get usable compost in 8 weeks instead of 6 months, so the garden gets fed year-round without waiting for a single massive batch."
         proofPoint="8-week finish time in warm weather. Dual chambers. BPA-free recycled plastic. Elevated to block pests."
         ctaLabel="Check FCMP Tumbler price on Amazon"
-        riskReversal="Free returns. Prime shipping."
       />
 
       <div className="prose max-w-none space-y-6 text-muted-foreground leading-relaxed mt-8">
